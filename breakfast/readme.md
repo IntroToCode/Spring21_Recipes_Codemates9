@@ -20,7 +20,9 @@
 - Spatula
 
 ## Steps for preparation:
-
+- Measure ingredients
+- Separate eggs
+- 
 
 
 ### Notes:
