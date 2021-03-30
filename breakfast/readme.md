@@ -8,7 +8,12 @@
 
 
 ## Equipment needed:
-
+- Measuring cups
+- Measurings spoons
+- Mixing bowl
+- Whisk
+- Griddle
+- Spatula
 
 ## Steps for preparation:
 
