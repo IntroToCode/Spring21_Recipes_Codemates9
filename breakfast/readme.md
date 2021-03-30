@@ -22,7 +22,7 @@
 ## Steps for preparation:
 - Measure ingredients
 - Separate eggs
-- 
+- combine dry ingredients
 
 
 ### Notes:
