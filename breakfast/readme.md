@@ -20,7 +20,7 @@
 - Spatula
 
 ## Steps for preparation:
-
+1. Mix everything together
 
 
 ### Notes:
