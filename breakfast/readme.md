@@ -20,8 +20,10 @@
 - Spatula
 
 ## Steps for preparation:
-
-
+- Measure ingredients
+- Separate eggs
+- combine dry ingredients
+- combine wet ingredients
 
 ### Notes:
 
