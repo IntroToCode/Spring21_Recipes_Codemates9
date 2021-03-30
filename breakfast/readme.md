@@ -1,8 +1,8 @@
-# Replace with recipe name
+# Pancakes
 
-## Servings: 
+## Servings: 4 people
 
-## Time to prepare: 
+## Time to prepare: 30 min
 
 ## Ingredients:
 
