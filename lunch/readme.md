@@ -1,8 +1,7 @@
-# Replace with recipe name
+# Avocado Toast with poached egg
+## Servings: 2
 
-## Servings: 
-
-## Time to prepare: 
+## Time to prepare: 30 min
 
 ## Ingredients:
 
