@@ -4,7 +4,7 @@
 ## Time to prepare: 30 min
 
 ## Ingredients:
-Egg, avacodao, toast, pepper and salt
+Egg, avacodao, toast, pepper, paprika and salt
 
 ## Equipment needed:
 Oven, pot, frying pan
@@ -17,7 +17,7 @@ Oven, pot, frying pan
 
 
 ### Notes:
-
+Fresh baked bread is best and gem avocadoes
 
 
 ### Codemates #
