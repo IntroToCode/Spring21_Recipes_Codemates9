@@ -4,7 +4,7 @@
 ## Time to prepare: 30 min
 
 ## Ingredients:
-Egg, avacodao, toast, pepper and salt
+Eggs, avocado, toast, paprika, pepper and salt
 
 ## Equipment needed:
 Oven, pot, frying pan
@@ -19,7 +19,7 @@ Oven, pot, frying pan
 Are we missing something?
 
 ### Notes:
-
+Gem avocadoes and fresh toast! 
 
 
 ### Codemates #
