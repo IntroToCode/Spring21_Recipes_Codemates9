@@ -5,11 +5,11 @@ Baked Mac and Cheese
 ## Time to prepare: 30 min
 
 ## Ingredients: 
-Elbow macaroni, cheddar cheese
+Elbow macaroni, cheddar cheese, bread crumbs, parsley
 
 
 ## Equipment needed:
-Bowl, pan, 
+Bowl, pan, colander, wooden spooken, measuring cups
 
 ## Steps for preparation:
 1. Cook elbow macaroni on stove top
@@ -17,7 +17,7 @@ Bowl, pan,
 3. Mix the cheese and macaroni and season
 
 ### Notes:
-
+Make sure to let the bread crumbs get nice and toasted! 
 
 
 ### Codemates #
