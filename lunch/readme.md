@@ -4,7 +4,7 @@
 ## Time to prepare: 30 min
 
 ## Ingredients:
-Egg, avacodao, toast, pepper and salt
+Eggs, avocado, toast, paprika, pepper and salt
 
 ## Equipment needed:
 Oven, pot, frying pan
@@ -16,10 +16,10 @@ Oven, pot, frying pan
 4. Assemble them and season them with salt and Pepper
 5. Add crushed red pepper flakes. 
 6. Done!
-
+Are we missing something?
 
 ### Notes:
-
+Gem avocadoes and fresh toast! 
 
 
 ### Codemates #
