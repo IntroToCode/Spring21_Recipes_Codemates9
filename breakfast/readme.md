@@ -26,7 +26,9 @@
 - combine wet ingredients
 
 ### Notes:
+-Be sure to make fun shapes like Mickey Mouse
+-When you see bubbles starting to break through, you want to flip!
+-Be sure to grease the pan somewhat or flipping will be hard.
 
 
-
-### Codemates #
+### Codemates #9
