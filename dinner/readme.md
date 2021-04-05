@@ -14,7 +14,7 @@ Bowl, pan,
 ## Steps for preparation:
 1. Cook elbow macaroni on stove top
 2. Heat cheese on pan
-
+3. Mix the cheese and macaroni and season
 
 ### Notes:
 
