@@ -17,7 +17,7 @@
 - Mixing bowl
 - Whisk
 - Griddle
-- Spatula
+- Wooden Spatula
 
 ## Steps for preparation:
 - Measure ingredients
