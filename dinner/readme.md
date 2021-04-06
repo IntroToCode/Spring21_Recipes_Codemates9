@@ -17,7 +17,9 @@ Bowl, pan, colander, wooden spooken, measuring cups
 3. Mix the cheese and macaroni and season
 
 ### Notes:
-Make sure to let the bread crumbs get nice and toasted! 
+Make sure to let the bread crumbs get nice and toasted!
+Check the pasta after about 9 minutes for most elbow pasta, you want it to be al dente, with just a bit of resistance when you bite through but with no hint of graininess.
+Don't start heating the cheese too early, you don't want it to burn before the pasta is ready and you don't want to have to let it cool and then re-heat it. 
 
 
-### Codemates #
+### Codemates #9
