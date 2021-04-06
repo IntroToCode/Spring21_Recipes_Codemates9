@@ -20,6 +20,8 @@ Are we missing something?
 
 ### Notes:
 Gem avocadoes and fresh toast! 
+Careful which bread you pick, bread like Ciabatta has a lot of holes and food will squish through!
+Pan au Levain or sourdough are good choices if you want a tighter loaf. 
 
 
-### Codemates #
+### Codemates #9
